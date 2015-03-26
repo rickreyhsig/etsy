@@ -1,0 +1,9 @@
+== README
+
+Etsy like web application written in Rails
+
+Things you may want to cover:
+
+* Ruby version 2.1.1-p76 (x86_64-linux)
+
+* Rails version 4.1.0
