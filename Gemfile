@@ -16,7 +16,7 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass', '~> 3.3.4'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem "paperclip-dropbox", ">= 1.1.7"
-gem "figaro"
+gem 'figaro'
 gem 'devise'
 
 group :production do
